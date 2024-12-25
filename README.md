@@ -3,5 +3,5 @@
 vim config file
 
 ```
-wget 
+wget https://raw.githubusercontent.com/nealhallyoung/vimrc/refs/heads/main/vimrc -O ~/.vimrc
 ```
